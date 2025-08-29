@@ -1,9 +1,3 @@
-**Sports Performance Dashboard (Power BI)** project.
-
-Here’s a solid draft you can use (Markdown format):
-
----
-
 # 🏀 Sports Performance Dashboard
 
 This project is a **Sports Performance Dashboard** built in **Power BI** to analyze NBA player and team performance using **wearable device data and game statistics**. The dashboard is divided into three main pages:
