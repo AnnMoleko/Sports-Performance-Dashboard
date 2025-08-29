@@ -1,4 +1,4 @@
-Got it 👍 You want a professional **README.md** file for your GitHub repo that explains your **Sports Performance Dashboard (Power BI)** project.
+**Sports Performance Dashboard (Power BI)** project.
 
 Here’s a solid draft you can use (Markdown format):
 
