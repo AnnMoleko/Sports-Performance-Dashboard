@@ -81,6 +81,12 @@ This project is a **Sports Performance Dashboard** built in **Power BI** to anal
 ```
 
 ---
+## Dashboard preview
+### Player Peroemance
+![Player Performance](images/player_performance.png)
+
+### Team Strategy
+![Team Strategy](images/team_strategy.png)
 
 ## Future Improvements
 
